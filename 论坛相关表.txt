@@ -1,0 +1,7 @@
+ppt_ucenter_members ----用户注册表
+PPT_common_syscache ----系统缓存表(估计用不上)
+PPT_common_member ------系统缓存用户(内容比注册表多)
+PPT_forum_forum --------论坛模块表
+PPT_forum_thread -------主贴列表
+PPT_forum_post ---------帖子主体表
+ppt_forum_attachment ---帖子附件表

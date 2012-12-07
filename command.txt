@@ -1,0 +1,23 @@
+Create a new repository on the command line
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/freedoo0m/PPT.git
+git push -u origin master
+Push an existing repository from the command line
+
+git remote add origin https://github.com/freedoo0m/PPT.git
+git push -u origin master
+
+
+
+
+git clone https://github.com/freedoo0m/PPT.git
+git add *
+git commit -m"*****"
+git push -u origin ***
+git branch ***	--建立分支
+git checkout ***	--转移到分支
+
