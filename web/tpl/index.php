@@ -1,57 +1,14 @@
-О╩©<!Doctype html />
-<html xmlns=http://www.w3.org/1999/xhtml>
-	<head>
-		<meta http-equiv=Content-Type content="text/html;charset=gbk">
-		<link href="../css/css.css" type=text/css rel=stylesheet>
-</head>
-	<body>
-		<div class="wrap">
-        	<!--Е╓╢И┐╗-->
-			<div class="head">
-              <div class="zhuce"><a href="#">ФЁ╗Е├▄</a></div>
-              <div class="xiexian">|</div>
-              <div class="denglu"><a href="#">Г≥╩Е╫∙</a></div>
-      </div>
-      <!--Е╞╪Х┬╙-->
-      <div class='content'>
-              <div class="daohang">
-                  <div class="shouye" align="center">
-                    <a href="#">Г╫▒Г╚≥И╕√И║╣</a>
-                    </div>
-                    <div class="xinwendongtai" align="center">
-                    <a href="#">Ф√╟И≈╩Е┼╗Ф─│</a>
-                    </div>
-                    <div class="fanlizhanshi" align="center">
-                    <a href="#">Х▄┐Д╬▀Е╠∙Г╓╨</a>
-                    </div>
-                    <div class="PPTjiaocheng" align="center">
-                    <a href="#">PPTФ∙≥Г╗▀</a>
-                    </div>
-                    <div class="wangyesucai" align="center">
-                    <a href="#">Г╫▒И║╣Г╢═Ф²░</a>
-                    </div>
-                    <div class="wangzhanhuodong" align="center">
-                    <a href="#">Г╫▒И║╣Ф╢╩Е┼╗</a>
-                    </div>
-                    <div class="lianxiwomen" align="center">
-                    <a href="#">Х│■ГЁ╩Ф┬▒Д╩╛</a>
-                    </div>
-                </div>
-                <!--flash-->
-                <div class="flash">
-                <img src="../images/flash.jpg"/>
-                </div>
-      </div>
-            
-            
-           
-            	<!--Г┴⌡Е╗÷-->
+<?php 
+	include_once('head.php');
+?>
+	
+<!--её╬Й-->
                  <div class="margin">
-            	  <!--Г╛╛Д╦─Х║▄Е╥╕Е⌡╬-->
+            	  <!--╣зр╩ппвСм╪-->
                     <div class="content1">
                        
                         <div class="content1_menu">
-                            <div class="news fontsize16 fontweightbload"> Ф√╟И≈╩Е┼╗Ф─│</div>
+                            <div class="news fontsize16 fontweightbload"> пбне╤╞л╛</div>
                             <div class="more"><img src="../images/mode_03.jpg" /></div>
                         </div>
                         
@@ -61,91 +18,79 @@
                                 <dt><img src="../images/first_03.jpg" alt="alt" /></dt>
                                 <dd>
                                 <div style='height:5px; '></div>
-                                <h2>PPTЕ┼╗Ф─│</h2>
-                                PPTО╪▄Д╦─Г╖█Ф╪■Г╓╨Ф√┤Г╗©Е⌡╬Е╫╒Г╗▀Е╨▐О╪▄Ф≤╞Power PointГ╝─Г╖╟Ц─┌
-                                Power PointФ≤╞Е╬╝Х╫╞Е┘╛Е▐╦Е┤╨Е⌠│Г └Office Х╫╞Д╩╤ГЁ╩Е┬≈И┤█Х╕│
-                                Г╩└Д╩╤Д╧▀Д╦─(Е░╚Ф°┴Excel,WordГ╜┴)Ц─┌Е▐╕Е╓√Х©≤Ф°┴Е┘╤Д╩√
-                                Ф└▐Х╠║О╪ ФЁ║ФЁ║Е═┌Г╝─Г╖╟Д╧▀Д╦─О╪⌡Ф╣⌠Е╨╕Е╨╕И┤▐Е█∙Д╫█Г╝─Г╖╟Г╜┴Ц─┌
-                                PPTО╪▄Д╦─Г╖█Ф╪■Г╓╨Ф√┤Г╗©Е⌡╬Е╫╒Г╗▀Е╨▐О╪▄Ф≤╞Power PointГ╝─Г╖╟Ц─┌
-                                Power PointФ≤╞Е╬╝Х╫╞Е┘╛Е▐╦Е┤╨Е⌠│Г └Office Х╫╞Д╩╤ГЁ╩Е┬≈И┤█Х╕│
-                                Г╩└Д╩╤Д╧▀Д╦─(Е░╚Ф°┴Excel,WordГ╜┴)Ц─┌Е▐╕Е╓√Х©≤Ф°┴Е┘╤Д╩√
-                                Ф└▐Х╠║О╪ ФЁ║ФЁ║Е═┌Г╝─Г╖╟Д╧▀Д╦─О╪⌡Ф╣⌠Е╨╕Е╨╕И┤▐Е█∙Д╫█Г╝─Г╖╟Г╜┴Ц─┌
+                                <h2>PPT╤╞л╛</h2>
+                                PPTё╛р╩жжящй╬нд╦Ем╪пнЁлпРё╛йгPower Point╪РЁф║ё
+                                Power Pointйгн╒хМ╧╚к╬ЁЖф╥╣дOffice хМ╪Чо╣апжьр╙
+                                вИ╪Чж╝р╩(╨╛спExcel,Word╣х)║ёаМмБ╩╧спфДкШ
+                                рБоСё╨ещещлц╪РЁфж╝р╩ё╩е╗╤х╤ха©╣╔н╩╪РЁф╣х║ё
+                                PPTё╛р╩жжящй╬нд╦Ем╪пнЁлпРё╛йгPower Point╪РЁф║ё
+                                Power Pointйгн╒хМ╧╚к╬ЁЖф╥╣дOffice хМ╪Чо╣апжьр╙
+                                вИ╪Чж╝р╩(╨╛спExcel,Word╣х)║ёаМмБ╩╧спфДкШ
+                                рБоСё╨ещещлц╪РЁфж╝р╩ё╩е╗╤х╤ха©╣╔н╩╪РЁф╣х║ё
                                 
                                 </dd>
                             </dl>
                         </div>
-                    </div><!--Г╛╛Д╦─Х║▄Е╥╕Е⌡╬  end-->
+                    </div><!--╣зр╩ппвСм╪  end-->
                    
-                    <!--Г╛╛Д╦─Х║▄Е▐ЁЕ⌡╬-->
+                    <!--╣зр╩ппсрм╪-->
                     <div class="content2">
                         <div class="content2_top">
-                            <div class="news fontsize16 fontweightbload">Х▄┐Д╬▀Е╠∙Г╓╨</div>
+                            <div class="news fontsize16 fontweightbload">╥╤юЩу╧й╬</div>
                             <div class="more"><img src="../images/mode_03.jpg" /></div>
                         </div>
                         <div>
                         	<div class="fanli">
-                                <div class="li1">
-                                     <div class="nav1"><img src="../images/xiaobiaoti2_03.jpg"></div>
-                                     <div class="nav">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
-                                </div>   
-                                 <div class="li1">
-                                     <div class="nav1"><img src="../images/xiaobiaoti2_03.jpg"></div>
-                                     <div class="nav">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
-                                </div>   
-                                 <div class="li1">
-                                     <div class="nav1"><img src="../images/xiaobiaoti2_03.jpg"></div>
-                                     <div class="nav">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
-                                </div>   
-                                 <div class="li1">
-                                     <div class="nav1"><img src="../images/xiaobiaoti2_03.jpg"></div>
-                                     <div class="nav">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
-                                </div>   
-                                 <div class="li1">
-                                     <div class="nav1"><img src="../images/xiaobiaoti2_03.jpg"></div>
-                                     <div class="nav">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
-                                </div> 
-                                 <div class="li1">
-                                     <div class="nav1"><img src="../images/xiaobiaoti2_03.jpg"></div>
-                                     <div class="nav">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
-                                </div>     
+                                
+                                <?php 
+                                  $result = $db->select_db_sql("SELECT pid,subject  FROM ppt_forum_post where fid=41 limit 0,6");
+                                  while ( $row = mysql_fetch_assoc($result) ) {
+                                      ?>
+                                    <div class="li1">
+                                         <div class="nav1"><img src="../images/xiaobiaoti2_03.jpg"></div>
+                                         <div class="nav"><a href="#">pptобтьсп╫╠ё╛<?php echo $row['subject']; ?></a></div>
+                                    </div> 
+                                  <?php
+                                  }
+                                ?> 
                         </div>
-                        
-                    </div><!--Г╛╛Д╦─Х║▄Е▐ЁЕ⌡╬ end -->
+                           
+                    </div><!--╣зр╩ппсрм╪ end -->
                 </div>
-                <!--Ф√╟И≈╩Х║▄Г╩⌠Ф²÷-->
+                <!--пбнепп╫АйЬ-->
                 
                 
                      <div class="moban">
-                     <div class="tianchong" ></div><!--Е║╚Е┘┘  end-->
+                     <div class="tianchong" ></div><!--лНЁД  end-->
                      <div class="moban1">
                          <div class="moban1_top">
-                              <div class="news">Г╫▒И║╣Г╢═Ф²░</div>
+                              <div class="news">мЬрЁкь╡д</div>
                               <div class="more"><img src="../images/mode_03.jpg" /></div>
                          </div><!--moban1_top end-->
                          <div class="moban1_bottom">
                              <div class="line1">
                                   <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                  <div class="text">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
+                                  <div class="text">pptобтьсп╫╠ё╛╩╤с╜обтьpptдё╟Е</div>
                                   <div class="time">2012-11-22</div>
                              </div>
                              <div class="line1">
                                   <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                  <div class="text">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
+                                  <div class="text">pptобтьсп╫╠ё╛╩╤с╜обтьpptдё╟Е</div>
                                   <div class="time">2012-11-22</div>
                              </div>
                              <div class="line1">
                                   <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                  <div class="text">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
+                                  <div class="text">pptобтьсп╫╠ё╛╩╤с╜обтьpptдё╟Е</div>
                                   <div class="time">2012-11-22</div>
                              </div>
                              <div class="line1">
                                   <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                  <div class="text">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
+                                  <div class="text">pptобтьсп╫╠ё╛╩╤с╜обтьpptдё╟Е</div>
                                   <div class="time">2012-11-22</div>
                              </div>
                              <div class="line1">
                                   <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                  <div class="text">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
+                                  <div class="text">pptобтьсп╫╠ё╛╩╤с╜обтьpptдё╟Е</div>
                                   <div class="time">2012-11-22</div>
                              </div>
                              
@@ -155,33 +100,33 @@
                      
                     <div class="moban2">
                           <div class="moban1_top">
-                                <div class="news1 fontsize16 fontweightbload">pptФ√┤Е╜≈Ф∙≥Г╗▀</div>
+                                <div class="news1 fontsize16 fontweightbload">pptндвж╫лЁл</div>
                                 <div class="more"><img src="../images/mode_03.jpg" /></div>
                           </div><!--moban1_top end-->
                           <div class="moban1_bottom">
                                   <div class="line1">
                                        <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                       <div class="text">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
+                                       <div class="text">pptобтьсп╫╠ё╛╩╤с╜обтьpptдё╟Е</div>
                                        <div class="time">2012-11-22</div>
                                   </div>
                                   <div class="line1">
                                       <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                      <div class="text">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
+                                      <div class="text">pptобтьсп╫╠ё╛╩╤с╜обтьpptдё╟Е</div>
                                       <div class="time">2012-11-22</div>
                                   </div>
                                  <div class="line1">
                                       <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                      <div class="text">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
+                                      <div class="text">pptобтьсп╫╠ё╛╩╤с╜обтьpptдё╟Е</div>
                                       <div class="time">2012-11-22</div>
                                  </div>
                                  <div class="line1">
                                       <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                      <div class="text">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
+                                      <div class="text">pptобтьсп╫╠ё╛╩╤с╜обтьpptдё╟Е</div>
                                       <div class="time">2012-11-22</div>
                                  </div>
                                  <div class="line1">
                                       <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                      <div class="text">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
+                                      <div class="text">pptобтьсп╫╠ё╛╩╤с╜обтьpptдё╟Е</div>
                                       <div class="time">2012-11-22</div>
                                  </div>
                            </div>
@@ -190,34 +135,34 @@
                      
                      <div class="moban3">
                           <div class="moban1_top">
-                               <div class="news1 fontsize16 fontweightbload">pptХ╖├И╒▒Ф∙≥Г╗▀</div>
+                               <div class="news1 fontsize16 fontweightbload">pptйсф╣╫лЁл</div>
                                <div class="more"><img src="../images/mode_03.jpg" /></div>
                           </div><!--moban1_top end-->
                           <div class="moban1_bottom">
                                <div class="moban1_bottom">
                                   <div class="line1">
                                        <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                       <div class="text">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
+                                       <div class="text">pptобтьсп╫╠ё╛╩╤с╜обтьpptдё╟Е</div>
                                        <div class="time">2012-11-22</div>
                                   </div>
                                   <div class="line1">
                                       <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                      <div class="text">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
+                                      <div class="text">pptобтьсп╫╠ё╛╩╤с╜обтьpptдё╟Е</div>
                                       <div class="time">2012-11-22</div>
                                   </div>
                                  <div class="line1">
                                       <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                      <div class="text">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
+                                      <div class="text">pptобтьсп╫╠ё╛╩╤с╜обтьpptдё╟Е</div>
                                       <div class="time">2012-11-22</div>
                                  </div>
                                  <div class="line1">
                                       <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                      <div class="text">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
+                                      <div class="text">pptобтьсп╫╠ё╛╩╤с╜обтьpptдё╟Е</div>
                                       <div class="time">2012-11-22</div>
                                  </div>
                                  <div class="line1">
                                       <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                      <div class="text">pptД╦▀Х╫╫Ф°┴Е╔√О╪▄Ф╛╒Х©▌Д╦▀Х╫╫pptФ╗║Ф²©</div>
+                                      <div class="text">pptобтьсп╫╠ё╛╩╤с╜обтьpptдё╟Е</div>
                                       <div class="time">2012-11-22</div>
                                  </div>
                            </div>
@@ -225,12 +170,12 @@
                       </div><!--moban3 end-->
                      
                </div>
-               <!--Ф╗║Ф²©Х║▄Г╩⌠Ф²÷-->
+               <!--дё╟Епп╫АйЬ-->
                  
                 <div class="fanlizhanshi">
-                     <div class="tianchong" ></div><!--Е║╚Е┘┘  end-->
+                     <div class="tianchong" ></div><!--лНЁД  end-->
                      <div class="moban1_top">
-                          <div class="news fontsize16 fontweightbload">Х▄┐Д╬▀Е╠∙Г╓╨</div>
+                          <div class="news fontsize16 fontweightbload">╥╤юЩу╧й╬</div>
                            <div class="maohao">
                                <div class="doudou"><img src="../images/ou.png" /></div> 
                                <div class="doudou1"><img src="../images/ou.png" /></div>
@@ -248,32 +193,32 @@
                      <div class="fanli_row fanli_row_underlinee">
                           <div class="pic1">
                                <dl>
-                                   <dt><img src="../images/flzs_03.jpg" alt="pptФ╗║Ф²©" title="pptФ╗║Ф²©" /></dt>
-                                   <dd>Г▌╞Д©²pptФ╗║Ф²©</dd> 
+                                   <dt><img src="../images/flzs_03.jpg" alt="pptдё╟Е" title="pptдё╟Е" /></dt>
+                                   <dd>╩╥╠ёpptдё╟Е</dd> 
                                </dl>
                           </div>
                           <div class="pic1">
                                <dl>
-                                  <dt><img src="../images/flzs_03.jpg" alt="pptФ╗║Ф²©" title="pptФ╗║Ф²©" /></dt>
-                                  <dd>Г▌╞Д©²pptФ╗║Ф²©</dd>
+                                  <dt><img src="../images/flzs_03.jpg" alt="pptдё╟Е" title="pptдё╟Е" /></dt>
+                                  <dd>╩╥╠ёpptдё╟Е</dd>
                              </dl>
                           </div>
                           <div class="pic1">
                                <dl>
-                                   <dt><img src="../images/flzs_03.jpg" alt="pptФ╗║Ф²©" title="pptФ╗║Ф²©" /></dt>
-                                   <dd>Г▌╞Д©²pptФ╗║Ф²©</dd>
+                                   <dt><img src="../images/flzs_03.jpg" alt="pptдё╟Е" title="pptдё╟Е" /></dt>
+                                   <dd>╩╥╠ёpptдё╟Е</dd>
                                </dl>
                           </div>
                           <div class="pic1">
                                <dl>
-                                   <dt><img src="../images/flzs_03.jpg" alt="pptФ╗║Ф²©" title="pptФ╗║Ф²©" /></dt>
-                                   <dd>Г▌╞Д©²pptФ╗║Ф²©</dd>
+                                   <dt><img src="../images/flzs_03.jpg" alt="pptдё╟Е" title="pptдё╟Е" /></dt>
+                                   <dd>╩╥╠ёpptдё╟Е</dd>
                                </dl>
                           </div>
                           <div class="pic1">
                                <dl>
-                                   <dt><img src="../images/flzs_03.jpg" alt="pptФ╗║Ф²©" title="pptФ╗║Ф²©" /></dt>
-                                   <dd>Г▌╞Д©²pptФ╗║Ф²©</dd>
+                                   <dt><img src="../images/flzs_03.jpg" alt="pptдё╟Е" title="pptдё╟Е" /></dt>
+                                   <dd>╩╥╠ёpptдё╟Е</dd>
                                </dl>
                           </div>
                      </div> <!--fanli_head end--> 
@@ -281,32 +226,32 @@
                      <div class="fanli_row fanli_row_underlinee">
                           <div class="pic1">
                                <dl>
-                                   <dt><img src="../images/flzs_03.jpg" alt="pptФ╗║Ф²©" title="pptФ╗║Ф²©" /></dt>
-                                   <dd>Г▌╞Д©²pptФ╗║Ф²©</dd> 
+                                   <dt><img src="../images/flzs_03.jpg" alt="pptдё╟Е" title="pptдё╟Е" /></dt>
+                                   <dd>╩╥╠ёpptдё╟Е</dd> 
                                </dl>
                           </div>
                           <div class="pic1">
                                <dl>
-                                  <dt><img src="../images/flzs_03.jpg" alt="pptФ╗║Ф²©" title="pptФ╗║Ф²©" /></dt>
-                                  <dd>Г▌╞Д©²pptФ╗║Ф²©</dd>
+                                  <dt><img src="../images/flzs_03.jpg" alt="pptдё╟Е" title="pptдё╟Е" /></dt>
+                                  <dd>╩╥╠ёpptдё╟Е</dd>
                              </dl>
                           </div>
                           <div class="pic1">
                                <dl>
-                                   <dt><img src="../images/flzs_03.jpg" alt="pptФ╗║Ф²©" title="pptФ╗║Ф²©" /></dt>
-                                   <dd>Г▌╞Д©²pptФ╗║Ф²©</dd>
+                                   <dt><img src="../images/flzs_03.jpg" alt="pptдё╟Е" title="pptдё╟Е" /></dt>
+                                   <dd>╩╥╠ёpptдё╟Е</dd>
                                </dl>
                           </div>
                           <div class="pic1">
                                <dl>
-                                   <dt><img src="../images/flzs_03.jpg" alt="pptФ╗║Ф²©" title="pptФ╗║Ф²©" /></dt>
-                                   <dd>Г▌╞Д©²pptФ╗║Ф²©</dd>
+                                   <dt><img src="../images/flzs_03.jpg" alt="pptдё╟Е" title="pptдё╟Е" /></dt>
+                                   <dd>╩╥╠ёpptдё╟Е</dd>
                                </dl>
                           </div>
                           <div class="pic1">
                                <dl>
-                                   <dt><img src="../images/flzs_03.jpg" alt="pptФ╗║Ф²©" title="pptФ╗║Ф²©" /></dt>
-                                   <dd>Г▌╞Д©²pptФ╗║Ф²©</dd>
+                                   <dt><img src="../images/flzs_03.jpg" alt="pptдё╟Е" title="pptдё╟Е" /></dt>
+                                   <dd>╩╥╠ёpptдё╟Е</dd>
                                </dl>
                           </div>
                      </div><!--fanli_middle end-->
@@ -314,53 +259,43 @@
                      <div class="fanli_footer">
                           <div class="pic1">
                                <dl>
-                                   <dt><img src="../images/flzs_03.jpg" alt="pptФ╗║Ф²©" title="pptФ╗║Ф²©" /></dt>
-                                   <dd>Г▌╞Д©²pptФ╗║Ф²©</dd> 
+                                   <dt><img src="../images/flzs_03.jpg" alt="pptдё╟Е" title="pptдё╟Е" /></dt>
+                                   <dd>╩╥╠ёpptдё╟Е</dd> 
                                </dl>
                           </div>
                           <div class="pic1">
                                <dl>
-                                  <dt><img src="../images/flzs_03.jpg" alt="pptФ╗║Ф²©" title="pptФ╗║Ф²©" /></dt>
-                                  <dd>Г▌╞Д©²pptФ╗║Ф²©</dd>
+                                  <dt><img src="../images/flzs_03.jpg" alt="pptдё╟Е" title="pptдё╟Е" /></dt>
+                                  <dd>╩╥╠ёpptдё╟Е</dd>
                              </dl>
                           </div>
                           <div class="pic1">
                                <dl>
-                                   <dt><img src="../images/flzs_03.jpg" alt="pptФ╗║Ф²©" title="pptФ╗║Ф²©" /></dt>
-                                   <dd>Г▌╞Д©²pptФ╗║Ф²©</dd>
+                                   <dt><img src="../images/flzs_03.jpg" alt="pptдё╟Е" title="pptдё╟Е" /></dt>
+                                   <dd>╩╥╠ёpptдё╟Е</dd>
                                </dl>
                           </div>
                           <div class="pic1">
                                <dl>
-                                   <dt><img src="../images/flzs_03.jpg" alt="pptФ╗║Ф²©" title="pptФ╗║Ф²©" /></dt>
-                                   <dd>Г▌╞Д©²pptФ╗║Ф²©</dd>
+                                   <dt><img src="../images/flzs_03.jpg" alt="pptдё╟Е" title="pptдё╟Е" /></dt>
+                                   <dd>╩╥╠ёpptдё╟Е</dd>
                                </dl>
                           </div>
                           <div class="pic1">
                                <dl>
-                                   <dt><img src="../images/flzs_03.jpg" alt="pptФ╗║Ф²©" title="pptФ╗║Ф²©" /></dt>
-                                   <dd>Г▌╞Д©²pptФ╗║Ф²©</dd>
+                                   <dt><img src="../images/flzs_03.jpg" alt="pptдё╟Е" title="pptдё╟Е" /></dt>
+                                   <dd>╩╥╠ёpptдё╟Е</dd>
                                </dl>
                           </div>
                      </div>
                 </div>
-                <!--Ф╗║Ф²©Е┬≈Х║╗Е╠∙Г╓╨Х║▄Г╩⌠Ф²÷-->
+                <!--дё╟Еап╠Му╧й╬пп╫АйЬ-->
                 
                 
-			<!--Г┴⌡Е╗÷  end-->
-            
-            
-            
-             <!--Е╨∙И┐╗-->
-	        
-    </div>
-		<div class='foot'>
-		     <div class='banquanbeijing'>
-        	      <div align="center" class="banquanwenzi">
-            
-                   </div>
-              </div>   
-	    </div>
-    </div>
-	</body>
-</html>
+			<!--её╬Й  end-->
+
+
+	
+<?php 
+	include_once("foot.php");
+?>

@@ -3,3 +3,10 @@
 <?PHP exit;?>	1354858983	admin	1	127.0.0.1	forums	GET={}; POST={};
 <?PHP exit;?>	1354859007	admin	1	127.0.0.1	forums	GET={order={}; name={1=Discuz!; 2=默认版块; }; neworder={1={}; }; newforum={1={0=PPT模板; }; }; newinherited={1={}; }; editsubmit=提交; }; POST={order={}; name={1=Discuz!; 2=默认版块; }; neworder={1={}; }; newforum={1={0=PPT模板; }; }; newinherited={1={}; }; editsubmit=提交; };
 <?PHP exit;?>	1354859018	admin	1	127.0.0.1	forums	GET={}; POST={};
+<?PHP exit;?>	1355123048	admin	1	127.0.0.1		GET={}; POST={};
+<?PHP exit;?>	1355123066	admin	1	127.0.0.1	index	GET={}; POST={};
+<?PHP exit;?>	1355123119	admin	1	127.0.0.1	forums	GET={}; POST={};
+<?PHP exit;?>	1355123178	admin	1	127.0.0.1	forums	GET={order={}; name={1=Discuz!; 2=新闻动态; 36=范例展示; }; neworder={1={}; }; newforum={1={0=PPT教程; 1=网页素材; 2=网站活动; }; }; newinherited={1={}; }; editsubmit=提交; }; POST={order={}; name={1=Discuz!; 2=新闻动态; 36=范例展示; }; neworder={1={}; }; newforum={1={0=PPT教程; 1=网页素材; 2=网站活动; }; }; newinherited={1={}; }; editsubmit=提交; };
+<?PHP exit;?>	1355123188	admin	1	127.0.0.1	forums	GET={}; POST={};
+<?PHP exit;?>	1355123240	admin	1	127.0.0.1	forums	GET={order={}; name={1=Discuz!; 2=新闻动态; 36=范例展示; 37=PPT教程; 38=网页素材; 39=网站活动; }; neworder={36={0=1; }; }; newforum={36={0=图标展示; 1=PPT展示; }; }; editsubmit=提交; }; POST={order={}; name={1=Discuz!; 2=新闻动态; 36=范例展示; 37=PPT教程; 38=网页素材; 39=网站活动; }; neworder={36={0=1; }; }; newforum={36={0=图标展示; 1=PPT展示; }; }; editsubmit=提交; };
+<?PHP exit;?>	1355123253	admin	1	127.0.0.1	forums	GET={}; POST={};
