@@ -614,6 +614,10 @@ padding-right: 20px;}
 	margin-right:20px;
 		}
 .li1{width:225px;height:30px;}	
+.li1 img{vertical-align: middle;}
+.li1 span{margin-left: 20px;}
+.w291{width: 291px;}
+
 		
 .tianchong{height:6px;background-color:#fff;}
 .moban{width:1000px;}
@@ -629,7 +633,7 @@ padding-right: 20px;}
 .moban1_bottom{
 	margin:17px 35px 9px 4px;
 		}
-.line1{height:29px;width:291px;}
+
  .sanjiao{
 	float:left;
 	margin-right:14px;
