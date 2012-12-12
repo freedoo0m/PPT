@@ -47,9 +47,8 @@
                                   while ( $row = mysql_fetch_assoc($result) ) {
                                       ?>
                                     <div class="li1">
-                                         <div class="nav1"><img src="../images/xiaobiaoti2_03.jpg"></div>
-                                         <div class="nav"><a href="#">ppt下载有奖，<?php echo $row['subject']; ?></a></div>
-                                    </div> 
+                                      <img src="../images/xiaobiaoti2_03.jpg"><span>ppt下载有奖，<?php echo $row['subject']?></span>
+                                  </div> 
                                   <?php
                                   }
                                 ?> 
@@ -68,32 +67,16 @@
                               <div class="more"><img src="../images/mode_03.jpg" /></div>
                          </div><!--moban1_top end-->
                          <div class="moban1_bottom">
-                             <div class="line1">
-                                  <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                  <div class="text">ppt下载有奖，欢迎下载ppt模板</div>
-                                  <div class="time">2012-11-22</div>
-                             </div>
-                             <div class="line1">
-                                  <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                  <div class="text">ppt下载有奖，欢迎下载ppt模板</div>
-                                  <div class="time">2012-11-22</div>
-                             </div>
-                             <div class="line1">
-                                  <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                  <div class="text">ppt下载有奖，欢迎下载ppt模板</div>
-                                  <div class="time">2012-11-22</div>
-                             </div>
-                             <div class="line1">
-                                  <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                  <div class="text">ppt下载有奖，欢迎下载ppt模板</div>
-                                  <div class="time">2012-11-22</div>
-                             </div>
-                             <div class="line1">
-                                  <div class="sanjiao"><img src="../images/sanjiao_03.jpg" /></div>
-                                  <div class="text">ppt下载有奖，欢迎下载ppt模板</div>
-                                  <div class="time">2012-11-22</div>
-                             </div>
-                             
+                            <?php 
+                                $result = $db->select_db_sql("SELECT pid,subject,dateline  FROM ppt_forum_post where fid=38 limit 0,6");
+                                while ( $row = mysql_fetch_assoc($result) ) {
+                                    ?>
+                                  <div class="li1 w291">
+                                    <img src="../images/sanjiao_03.jpg" /><span><?php echo $row['subject']."&nbsp;&nbsp;".date('Y-m-d',$row['dateline']) ?></span>
+                                 </div>
+                                <?php
+                                }
+                              ?>
                          </div><!--moban1_bottom end-->
                      </div><!--moban1 end--> 
                      
