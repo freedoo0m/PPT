@@ -267,7 +267,7 @@
                           <div class="pic1">
                                <dl>
                                    <dt><img src="../images/flzs_03.jpg" alt="ppt模板" title="ppt模板" /></dt>
-                                   <dd>环保ppt模板</dd>
+                                   <dd><a href="details.php?id=1">环保ppt模板</a></dd>
                                </dl>
                           </div>
                      </div>
